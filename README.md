@@ -41,5 +41,3 @@ Demonstrates a **real-world RAG pipeline** combining **LLMs, vector databases, a
 
 ---
 
-# HireSense-AI
-# HireSense-AI
