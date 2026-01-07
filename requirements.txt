@@ -11,5 +11,5 @@ python-dotenv==1.0.0
 streamlit==1.32.0
 sentence-transformers==2.5.1
 faiss-cpu
-tiktoken==0.6.0
+tiktoken
 openai>=1.24.0,<2.0.0
